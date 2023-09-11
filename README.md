@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### 🌱 Currently delving deep into Data Analytics, ML, and DL.
+#### 📫 Connect with me: jinlee057@gmail.com
+#### ⚡ From 7 years in the bunker industry to pursuing my passion: becoming a Data Specialist!
+
+## Tech Stacks & Tools I've Used
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Prefect](https://img.shields.io/badge/-Prefect-5F4B8B?style=flat-square&logo=prefect) ![MLFlow](https://img.shields.io/badge/-MLFlow-FF3621?style=flat-square&logo=mlflow) ![Minio](https://img.shields.io/badge/-Minio-FAE042?style=flat-square&logo=minio)
+ ![GCP (Google Cloud Platform)](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud)
+
 
 <!--
 **Jinlee057/jinlee057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
