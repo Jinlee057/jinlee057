@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### 🌱 Currently delving deep into Data Analytics, ML, and DL.
 #### 📫 Connect with me: jinlee057@gmail.com
-#### ⚡ From 7 years in the bunker industry to pursuing my passion: becoming a Data Specialist!
+#### ⚡ From 7 years in the bunker industry to pursuing my passion: becoming a Data Analyst!
 
 ## Tech Stacks & Tools I've Used
 
